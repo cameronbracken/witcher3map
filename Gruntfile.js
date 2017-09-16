@@ -131,7 +131,7 @@ module.exports = function (grunt) {
 					'node_modules/jquery/dist/jquery.js',
 					'node_modules/i18next-client/i18next.js',
 					'node_modules/ddslick/src/jquery.ddslick.js',
-					'node_modules/nicescroll/jquery.nicescroll.js',
+					'node_modules/jquery.nicescroll/jquery.nicescroll.js',
 					'node_modules/leaflet/dist/leaflet-src.js',
 					'node_modules/fuse.js/src/fuse.js',
 					'node_modules/file-saver/FileSaver.js',

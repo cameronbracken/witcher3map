@@ -62,7 +62,7 @@
     "i18next-client": "^1.11.4",
     "jquery": "^3.0.0",
     "leaflet": "^0.7.7",
-    "nicescroll": "github:inuyaksa/jquery.nicescroll"
+    "jquery.nicescroll": "github:inuyaksa/jquery.nicescroll"
   },
   "devDependencies": {}
 }
